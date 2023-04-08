@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.627b6d20.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"audition/vue.md","lastUpdated":null}'),o={name:"audition/vue.md"};function n(r,s,c,d,i,p){return a(),t("div")}const l=e(o,[["render",n]]);export{u as __pageData,l as default};

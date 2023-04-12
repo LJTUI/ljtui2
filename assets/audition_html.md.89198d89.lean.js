@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as l,N as n}from"./chunks/framework.627b6d20.js";const d=JSON.parse('{"title":"html八股文","description":"","frontmatter":{},"headers":[],"relativePath":"audition/html.md","lastUpdated":null}'),o={name:"audition/html.md"},p=n("",55),e=[p];function t(r,c,i,F,D,y){return l(),a("div",null,e)}const u=s(o,[["render",t]]);export{d as __pageData,u as default};

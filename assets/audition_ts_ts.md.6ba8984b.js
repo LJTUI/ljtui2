@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.627b6d20.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"audition/ts/ts.md","lastUpdated":null}'),s={name:"audition/ts/ts.md"};function o(n,r,c,d,i,p){return a(),e("div")}const m=t(s,[["render",o]]);export{l as __pageData,m as default};

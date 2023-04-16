@@ -1,0 +1,1 @@
+import{_ as l,c as a,o as i,U as t}from"./chunks/framework.b82ed5e4.js";const u=JSON.parse('{"title":"W3C标准","description":"","frontmatter":{},"headers":[],"relativePath":"audition/html/w3c.md","lastUpdated":null}'),e={name:"audition/html/w3c.md"},o=t("",8),c=[o];function r(s,d,n,h,_,p){return i(),a("div",null,c)}const f=l(e,[["render",r]]);export{u as __pageData,f as default};

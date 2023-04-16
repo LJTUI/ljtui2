@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e}from"./chunks/framework.b82ed5e4.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"audition/ajax/ajax.md","lastUpdated":null}'),o={name:"audition/ajax/ajax.md"};function n(r,s,c,d,i,p){return e(),t("div")}const m=a(o,[["render",n]]);export{l as __pageData,m as default};

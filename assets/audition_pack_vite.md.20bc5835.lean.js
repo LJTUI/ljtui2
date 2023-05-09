@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,U as n}from"./chunks/framework.b82ed5e4.js";const y=JSON.parse('{"title":"vite","description":"","frontmatter":{},"headers":[],"relativePath":"audition/pack/vite.md","lastUpdated":null}'),o={name:"audition/pack/vite.md"},t=n("",11),l=[t];function p(i,c,r,D,F,d){return e(),a("div",null,l)}const v=s(o,[["render",p]]);export{y as __pageData,v as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as l,U as n}from"./chunks/framework.b82ed5e4.js";const d=JSON.parse('{"title":"CSS","description":"","frontmatter":{},"headers":[],"relativePath":"audition/css/css上篇.md","lastUpdated":null}'),o={name:"audition/css/css上篇.md"},e=n("",89),p=[e];function t(i,c,r,D,y,C){return l(),a("div",null,p)}const h=s(o,[["render",t]]);export{d as __pageData,h as default};

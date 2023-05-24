@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,U as l}from"./chunks/framework.b82ed5e4.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"audition/面试/b站.md","lastUpdated":null}'),o={name:"audition/面试/b站.md"},p=l("",22),e=[p];function t(r,c,y,F,D,i){return n(),a("div",null,e)}const u=s(o,[["render",t]]);export{A as __pageData,u as default};

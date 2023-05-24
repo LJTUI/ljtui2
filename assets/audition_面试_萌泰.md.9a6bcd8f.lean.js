@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as l,U as n}from"./chunks/framework.b82ed5e4.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"audition/面试/萌泰.md","lastUpdated":null}'),o={name:"audition/面试/萌泰.md"},e=n("",43),p=[e];function t(r,c,i,y,F,D){return l(),a("div",null,p)}const d=s(o,[["render",t]]);export{C as __pageData,d as default};

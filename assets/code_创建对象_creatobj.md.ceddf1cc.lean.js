@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,U as l}from"./chunks/framework.54495537.js";const i=JSON.parse('{"title":"创建对象","description":"","frontmatter":{},"headers":[],"relativePath":"code/创建对象/creatobj.md","lastUpdated":null}'),o={name:"code/创建对象/creatobj.md"},p=l("",13),e=[p];function t(c,r,y,D,F,A){return n(),a("div",null,e)}const h=s(o,[["render",t]]);export{i as __pageData,h as default};

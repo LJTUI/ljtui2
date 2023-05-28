@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as i,U as l}from"./chunks/framework.54495537.js";const u=JSON.parse('{"title":"安全","description":"","frontmatter":{},"headers":[],"relativePath":"audition/http/web安全.md","lastUpdated":null}'),t={name:"audition/http/web安全.md"},o=l("",27),r=[o];function s(S,n,h,c,b,d){return i(),a("div",null,r)}const _=e(t,[["render",s]]);export{u as __pageData,_ as default};

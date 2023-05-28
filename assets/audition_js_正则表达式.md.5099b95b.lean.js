@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as a,U as s}from"./chunks/framework.54495537.js";const D=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"audition/js/正则表达式.md","lastUpdated":null}'),l={name:"audition/js/正则表达式.md"},c=s("",7),p=[c];function t(n,d,r,i,_,A){return a(),o("div",null,p)}const u=e(l,[["render",t]]);export{D as __pageData,u as default};

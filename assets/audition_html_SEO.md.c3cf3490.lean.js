@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,U as i}from"./chunks/framework.b82ed5e4.js";const m=JSON.parse('{"title":"SEO","description":"","frontmatter":{},"headers":[],"relativePath":"audition/html/SEO.md","lastUpdated":null}'),l={name:"audition/html/SEO.md"},o=i("",12),r=[o];function n(s,d,h,c,_,p){return t(),e("div",null,r)}const S=a(l,[["render",n]]);export{m as __pageData,S as default};

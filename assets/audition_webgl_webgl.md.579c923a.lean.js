@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.54495537.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"audition/webgl/webgl.md","lastUpdated":null}'),o={name:"audition/webgl/webgl.md"};function n(r,s,c,l,d,i){return a(),t("div")}const m=e(o,[["render",n]]);export{_ as __pageData,m as default};

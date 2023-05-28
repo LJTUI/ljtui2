@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,U as l}from"./chunks/framework.b82ed5e4.js";const i=JSON.parse('{"title":"日常错题","description":"","frontmatter":{},"headers":[],"relativePath":"fighting/date/date.md","lastUpdated":null}'),p={name:"fighting/date/date.md"},o=l("",7),e=[o];function t(c,r,y,A,C,D){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};

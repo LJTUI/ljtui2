@@ -1,1 +1,0 @@
-import{_ as l,c as i,o as a,U as e}from"./chunks/framework.b82ed5e4.js";const p=JSON.parse('{"title":"数组","description":"","frontmatter":{},"headers":[],"relativePath":"audition/js/数组方法.md","lastUpdated":null}'),t={name:"audition/js/数组方法.md"},r=e("",5),o=[r];function n(s,u,d,c,_,h){return a(),i("div",null,o)}const m=l(t,[["render",n]]);export{p as __pageData,m as default};

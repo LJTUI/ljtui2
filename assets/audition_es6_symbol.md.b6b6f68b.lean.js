@@ -1,1 +1,0 @@
-import{_ as s,c as l,o as a,U as n}from"./chunks/framework.b82ed5e4.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"audition/es6/symbol.md","lastUpdated":null}'),o={name:"audition/es6/symbol.md"},p=n("",13),e=[p];function t(c,y,r,D,A,C){return a(),l("div",null,e)}const m=s(o,[["render",t]]);export{i as __pageData,m as default};

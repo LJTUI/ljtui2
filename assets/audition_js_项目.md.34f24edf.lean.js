@@ -1,1 +1,0 @@
-import{_ as e,c as l,o as a,U as i}from"./chunks/framework.b82ed5e4.js";const b=JSON.parse('{"title":"项目","description":"","frontmatter":{},"headers":[],"relativePath":"audition/js/项目.md","lastUpdated":null}'),o={name:"audition/js/项目.md"},t=i("",56),r=[t];function n(p,s,d,h,c,u){return a(),l("div",null,r)}const P=e(o,[["render",n]]);export{b as __pageData,P as default};

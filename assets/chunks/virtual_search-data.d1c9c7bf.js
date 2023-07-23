@@ -2668,15 +2668,14 @@ type = 'primary'|'success'
 &lt;L-b ...`,l:"components/button/normal.html#朴素按钮",a:"朴素按钮"},"77.6":{t:"圆角\r",p:`给按钮添加round变为圆角按钮,例如：
 &lt;L-button type=&quot;primary&quot; round&gt;primary&lt;/L-button&gt;
 &lt;L-b ...`,l:"components/button/normal.html#圆角",a:"圆角"},"77.7":{t:"禁用\r",p:`给按钮添加disabled变为不可选中状态,例如：
-&lt;L-button type=&quot;primary&quot; disabled&gt;primary&lt;/L-button&gt; ...`,l:"components/button/normal.html#禁用",a:"禁用"},"77.8":{t:"给按钮添加icon\r",p:"给按钮添加icon=&quot;name&quot;属性,选择自己喜欢的name就可以在按钮上添加icon,如果icon想放在右侧只需要添加icon-position=&quot;right&quot ...",l:"components/button/normal.html#给按钮添加icon",a:"给按钮添加icon"},"78.0":{t:"# 输入框\r",p:"\r",l:"components/from/input.html",a:"输入框"},"78.1":{t:"普通输入框\r",p:`&lt;!-- &lt;Linput  placeholder=&quot;请输入内容&quot;&gt;&lt;/Linput&gt; --&gt;
-&lt;Linput  placeholder= ...`,l:"components/from/input.html#普通输入框",a:"普通输入框"},"78.2":{t:"禁用\r",p:`disabled
-&lt;!-- &lt;Linput disabled placeholder=&quot;请输入内容&quot;&gt;&lt;/Linput&gt; --&gt;
-&lt;Lin ...`,l:"components/from/input.html#禁用",a:"禁用"},"78.3":{t:"尺寸\r",p:`medium,small,mini,不传则默认
-&lt;!--
+&lt;L-button type=&quot;primary&quot; disabled&gt;primary&lt;/L-button&gt; ...`,l:"components/button/normal.html#禁用",a:"禁用"},"77.8":{t:"给按钮添加icon\r",p:"给按钮添加icon=&quot;name&quot;属性,选择自己喜欢的name就可以在按钮上添加icon,如果icon想放在右侧只需要添加icon-position=&quot;right&quot ...",l:"components/button/normal.html#给按钮添加icon",a:"给按钮添加icon"},"78.0":{t:"# 输入框\r",p:"\r",l:"components/from/input.html",a:"输入框"},"78.1":{t:"普通输入框\r",p:`&lt;Linput  placeholder=&quot;请输入内容&quot;&gt;&lt;/Linput&gt;
+&lt;Linput  placeholder=&quot;请输入内容&quo ...`,l:"components/from/input.html#普通输入框",a:"普通输入框"},"78.2":{t:"禁用\r",p:`disabled
+&lt;Linput disabled placeholder=&quot;请输入内容&quot;&gt;&lt;/Linput&gt;
+&lt;Linput disabled pl ...`,l:"components/from/input.html#禁用",a:"禁用"},"78.3":{t:"尺寸\r",p:`medium,small,mini,不传则默认
 medium
-&lt;Linput size=&quot;medium&quot; placeholder=&quot;请输入内容&qu ...`,l:"components/from/input.html#尺寸",a:"尺寸"},"78.4":{t:"一键清空\r",p:`当输入框有值时可一键清空
-&lt;!-- &lt;Linput size=&quot;medium&quot;  v-model=&quot;tel&quot; clearable placehold ...`,l:"components/from/input.html#一键清空",a:"一键清空"},"78.5":{t:"密码框\r",p:"&lt;!-- &lt;Linput size=&quot;medium&quot; v-model=&quot;tel&quot; type=&quot;password&quot; showPas ...",l:"components/from/input.html#密码框",a:"密码框"},"78.6":{t:"带icon输入框\r",p:"&lt;!-- &lt;Linput size=&quot;medium&quot; v-model=&quot;tel&quot; clearable prefixIcon=&quot;bianji ...",l:"components/from/input.html#带icon输入框",a:"带icon输入框"},"78.7":{t:"复合输入框\r",p:`&lt;!-- &lt;div class=&quot;upfile&quot;&gt;
-&lt;Linput v-model=&quot;tel&quot; placeholder=&quot;请输 ...`,l:"components/from/input.html#复合输入框",a:"复合输入框"},"78.8":{t:"自适应高度文本域\r",p:`设置autosize=&quot;{ minRows: 2, maxRows: 5 }最小行数为2，最大行数为5
+&lt;Linput size=&quot;medium&quot; placeholder=&quot;请输入内容&quot;&gt;& ...`,l:"components/from/input.html#尺寸",a:"尺寸"},"78.4":{t:"一键清空\r",p:`当输入框有值时可一键清空
+&lt;Linput size=&quot;medium&quot;  v-model=&quot;tel&quot; clearable placeholder=&quot ...`,l:"components/from/input.html#一键清空",a:"一键清空"},"78.5":{t:"密码框\r",p:"&lt;Linput size=&quot;medium&quot; v-model=&quot;tel&quot; type=&quot;password&quot; showPassword pl ...",l:"components/from/input.html#密码框",a:"密码框"},"78.6":{t:"带icon输入框\r",p:"&lt;Linput size=&quot;medium&quot; v-model=&quot;tel&quot; clearable prefixIcon=&quot;bianji&quot; p ...",l:"components/from/input.html#带icon输入框",a:"带icon输入框"},"78.7":{t:"复合输入框\r",p:`&lt;div class=&quot;upfile&quot;&gt;
+&lt;Linput v-model=&quot;tel&quot; placeholder=&quot;请输入内容&quot ...`,l:"components/from/input.html#复合输入框",a:"复合输入框"},"78.8":{t:"自适应高度文本域\r",p:`设置autosize=&quot;{ minRows: 2, maxRows: 5 }最小行数为2，最大行数为5
 &lt;Linput type=&quot;textarea&quot; :autos ...`,l:"components/from/input.html#自适应高度文本域",a:"自适应高度文本域"},"79.0":{t:"安装\r",p:`npm install ljt-btn
 
 `,l:"components/guild/installation.html",a:"安装"},"80.0":{t:"# icon\r",p:"\r",l:"components/icon/icon.html",a:"icon"},"80.1":{t:"效果展示\r",p:`&lt;Licon name=&quot;apple-line&quot; color=&quot;red&quot;&gt;&lt;/Licon&gt;
